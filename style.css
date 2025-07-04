@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+.topnav{
+    padding: 10px;
+    background-color: #c3811f;
+}
+.topnav a{
+    color: rgb(236, 235, 227);
+    padding: 15px 200px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+}
+.topnav:hover{
+    background-color: rgb(61, 193, 37);
+}
+.topnav a:hover{
+    color: rgb(182, 11, 11);
+}
+.head{
+    color: rgb(55, 132, 241);
+    font-size: 40px;
+    align-items: start;
+    /* margin-right: 800px; */
+}
+.head:hover{
+    color: purple;
+}
+.para{
+    color: rgb(1, 1, 1);
+}
+#about{
+    padding: 20px;
+}
+#about h1{
+    font-size: 40px;
+   
+}
+
+.detail{
+    font-size: 20px;
+    padding: 50px;
+    background-color: lightgrey;
+}
+#button{
+    font-size: 20px;
+    color: white;
+    background-color: #007FFF;
+}
